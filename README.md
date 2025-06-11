@@ -68,10 +68,12 @@ Understand trends in customer loyalty points and review data to inform Turtle Ga
 
 ## 📂 Files in This Repository
 
-- `turtle_games_analysis.ipynb` — Python notebook (EDA, modeling, clustering, NLP)
-- `turtle_reviews_sentiment.Rmd` — R notebook (regression modeling and visualizations)
-- `presentation_deck.pdf` — Summary of findings for stakeholders
-- `loyalty_points_model.csv` — Cleaned dataset used in final models
+- `Phil_Best_Turtle_Games_Python.ipynb` — Python notebook (EDA, modeling, clustering, NLP)
+- `Phil_Best_Turtle_Games_R_Script.Rmd` — R notebook (regression modeling and visualizations)
+- `Phil_Best_Turtle_Games_Technical_Report` — Technical report mapping to code
+- `Phil_Best_Turtle_Games.mp4` - Recording of Presentation 
+- `Phil_Best_Turtle_Games_Presentation.pptx` - Powerpoint Presentation
+- `turtle_reviews.csv` — Starting dataset
 - `README.md` — You are here!
 
 ---
