@@ -47,7 +47,7 @@ Turtle Games wanted to better understand trends in customer loyalty points and r
 
 ---
 
-## 📊 Key Insights
+## 💡 Key Insights
 
 - **Pay and Spending Score** together explain over 80% of variation in loyalty points
 - **5 distinct customer segments** emerged from clustering, supporting targeted marketing
