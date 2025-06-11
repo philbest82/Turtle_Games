@@ -5,7 +5,7 @@
 
 ## 🎯 Objective
 
-Understand trends in customer loyalty points and review data to inform their customer strategy. The goal was to uncover insights and develop predictive models that could help improve marketing effectiveness and customer engagement.
+Understand trends in customer loyalty points and review data to inform Turtle Games' customer strategy. The goal was to uncover insights and develop predictive models that could help improve marketing effectiveness and customer engagement.
 
 ---
 
