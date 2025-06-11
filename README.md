@@ -3,13 +3,13 @@
 **Author:** Phil Best  
 **Tools Used:** Python, R, pandas, scikit-learn, matplotlib, seaborn, TextBlob, VADER, Tableau
 
-## 📌 Objective
+## 🎯 Objective
 
 Turtle Games wanted to better understand trends in customer loyalty points and review data to inform their customer strategy. The goal was to uncover insights and develop predictive models that could help improve marketing effectiveness and customer engagement.
 
 ---
 
-## 🧠 Key Questions Explored
+## 🤨 Key Questions Explored
 
 - What drives customer loyalty points?
 - Can we predict high-value customers based on early behaviour?
@@ -18,7 +18,7 @@ Turtle Games wanted to better understand trends in customer loyalty points and r
 
 ---
 
-## 🧪 Analytical Methods
+## 🧐 Analytical Methods
 
 ### 🔹 Data Cleaning & Preparation
 - Removed irrelevant columns, handled missing values
