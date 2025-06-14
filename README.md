@@ -18,7 +18,7 @@ Understand trends in customer loyalty points and review data to inform Turtle Ga
 
 ---
 
-## 🧐 Analytical Methods
+## 🔍 Analytical Methods
 
 ### 🔹 Data Cleaning & Preparation
 - Removed irrelevant columns, handled missing values
@@ -77,7 +77,7 @@ Understand trends in customer loyalty points and review data to inform Turtle Ga
 
 ---
 
-## 🧭 Future Questions
+## ❓ Future Questions
 
 - How is spending score calculated and when?
 - Do loyalty points translate into actual customer spend?
