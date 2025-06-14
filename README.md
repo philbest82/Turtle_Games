@@ -86,4 +86,4 @@ Understand trends in customer loyalty points and review data to inform Turtle Ga
 
 ---
 
-🔗 Let me know if you’d like to walk through this case study or discuss how the analysis could be adapted for similar commercial problems.
+📌 This project was completed as part of the LSE Data Analytics Career Accelerator.
